@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result - Plant Health Classification</title>
+    <style>
+        /* Add your existing CSS here */
+        .result {
+            padding: 20px;
+            background-color: #f2f2f2;
+            border-radius: 8px;
+        }
+        .treatment-recommendation {
+            margin-top: 20px;
+            padding: 20px;
+            background-color: #e0f7fa;
+            border-radius: 8px;
+        }
+        .back-btn {
+            padding: 10px 20px;
+            background-color: #00796b;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .error-message {
+            color: red;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Plant Health Classification</h1>
+        <h2>Processing Result</h2>
+
+        <!-- Display Error Message if Any -->
+        {% if error %}
+            <div class="error-message">
+                <p><strong>Error:</strong> {{ error }}</p>
+            </div>
+        {% endif %}
+
+        <!-- Display Result -->
+        <div class="result">
+            {% if result %}
+                <p><strong>Predicted Disease:</strong> {{ result|title }}</p>
+            {% else %}
+                <p>No disease predicted.</p>
+            {% endif %}
+        </div>
+
+        <!-- Display Plant Name -->
+        {% if plant_name %}
+            <p><strong>Plant Name:</strong> {{ plant_name }}</p>
+        {% else %}
+            <p><strong>Plant Name:</strong> Not provided</p>
+        {% endif %}
+
+        <!-- Show Treatment Recommendations -->
+        {% if treatment_recommendations %}
+            <div class="treatment-recommendation">
+                <h3>Treatment Recommendations</h3>
+                <p>{{ treatment_recommendations }}</p>
+            </div>
+        {% else %}
+            <p>No treatment recommendations found.</p>
+        {% endif %}
+
+        <!-- Back Button -->
+        <a href="javascript:void(0);" class="back-btn" onclick="window.history.back()">Go Back</a>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 Plant Health Classification. All rights reserved.</p>
+    </div>
+
+</body>
+</html>

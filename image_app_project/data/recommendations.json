@@ -1,0 +1,802 @@
+[
+    {
+        "id":1,
+        "plant_name":"Mango",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":3,
+        "plant_name":"Wheat",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":5,
+        "plant_name":"Tomato",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":7,
+        "plant_name":"Chili",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":9,
+        "plant_name":"Turmeric",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":11,
+        "plant_name":"Rose",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":13,
+        "plant_name":"Hibiscus",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":15,
+        "plant_name":"Guava",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":17,
+        "plant_name":"Banana",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":19,
+        "plant_name":"Papaya",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":21,
+        "plant_name":"Potato",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":23,
+        "plant_name":"Brinjal",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":25,
+        "plant_name":"Coconut",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":27,
+        "plant_name":"Areca Nut",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":29,
+        "plant_name":"Tea",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":31,
+        "plant_name":"Coffee",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":33,
+        "plant_name":"Sugarcane",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":35,
+        "plant_name":"Mustard",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":37,
+        "plant_name":"Spinach",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":39,
+        "plant_name":"Coriander",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":41,
+        "plant_name":"Cucumber",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":43,
+        "plant_name":"Okra",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":45,
+        "plant_name":"Cotton",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":47,
+        "plant_name":"Peas",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":49,
+        "plant_name":"Bitter Gourd",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":51,
+        "plant_name":"Pomegranate",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":53,
+        "plant_name":"Litchi",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":55,
+        "plant_name":"Cardamom",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":57,
+        "plant_name":"Black Pepper",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":59,
+        "plant_name":"Rice",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":61,
+        "plant_name":"Sorghum",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":63,
+        "plant_name":"Millet",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":65,
+        "plant_name":"Barley",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":67,
+        "plant_name":"Apple",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":69,
+        "plant_name":"Pear",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":71,
+        "plant_name":"Peach",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":73,
+        "plant_name":"Plum",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":75,
+        "plant_name":"Apricot",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":77,
+        "plant_name":"Cherry",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":79,
+        "plant_name":"Almond",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":81,
+        "plant_name":"Cashew",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":83,
+        "plant_name":"Sesame",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":85,
+        "plant_name":"Soybean",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":87,
+        "plant_name":"Groundnut",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":89,
+        "plant_name":"Sunflower",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":91,
+        "plant_name":"Rapeseed",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":93,
+        "plant_name":"Watermelon",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":95,
+        "plant_name":"Muskmelon",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":97,
+        "plant_name":"Pumpkin",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":99,
+        "plant_name":"Grapes",
+        "disease_type":"Powdery",
+        "symptoms":"White powdery spots on leaves, stems, or fruits",
+        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
+        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+    },
+    {
+        "id":2,
+        "plant_name":"Mango",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":4,
+        "plant_name":"Wheat",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":6,
+        "plant_name":"Tomato",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":8,
+        "plant_name":"Chili",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":10,
+        "plant_name":"Turmeric",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":12,
+        "plant_name":"Rose",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":14,
+        "plant_name":"Hibiscus",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":16,
+        "plant_name":"Guava",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":18,
+        "plant_name":"Banana",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":20,
+        "plant_name":"Papaya",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":22,
+        "plant_name":"Potato",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":24,
+        "plant_name":"Brinjal",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":26,
+        "plant_name":"Coconut",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":28,
+        "plant_name":"Areca Nut",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":30,
+        "plant_name":"Tea",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":32,
+        "plant_name":"Coffee",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":34,
+        "plant_name":"Sugarcane",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":36,
+        "plant_name":"Mustard",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":38,
+        "plant_name":"Spinach",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":40,
+        "plant_name":"Coriander",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":42,
+        "plant_name":"Cucumber",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":44,
+        "plant_name":"Okra",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":46,
+        "plant_name":"Cotton",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":48,
+        "plant_name":"Peas",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":50,
+        "plant_name":"Bitter Gourd",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":52,
+        "plant_name":"Pomegranate",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":54,
+        "plant_name":"Litchi",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":56,
+        "plant_name":"Cardamom",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":58,
+        "plant_name":"Black Pepper",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":60,
+        "plant_name":"Rice",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":62,
+        "plant_name":"Sorghum",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":64,
+        "plant_name":"Millet",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":66,
+        "plant_name":"Barley",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":68,
+        "plant_name":"Apple",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":70,
+        "plant_name":"Pear",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":72,
+        "plant_name":"Peach",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":74,
+        "plant_name":"Plum",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":76,
+        "plant_name":"Apricot",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":78,
+        "plant_name":"Cherry",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":80,
+        "plant_name":"Almond",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":82,
+        "plant_name":"Cashew",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":84,
+        "plant_name":"Sesame",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":86,
+        "plant_name":"Soybean",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":88,
+        "plant_name":"Groundnut",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":90,
+        "plant_name":"Sunflower",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":92,
+        "plant_name":"Rapeseed",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":94,
+        "plant_name":"Watermelon",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":96,
+        "plant_name":"Muskmelon",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":98,
+        "plant_name":"Pumpkin",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    },
+    {
+        "id":100,
+        "plant_name":"Grapes",
+        "disease_type":"Rust",
+        "symptoms":"Yellow-orange pustules on leaves",
+        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
+        "additional_notes":"Remove infected leaves and avoid overcrowding"
+    }
+]
