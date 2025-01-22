@@ -39,6 +39,23 @@
             background-color: #e9f7ef;
             border-left: 4px solid #2ecc71;
         }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .button-container a {
+            text-decoration: none;
+            padding: 10px 20px;
+            background-color: #2ecc71;
+            color: white;
+            border-radius: 5px;
+        }
+
+        .button-container a:hover {
+            background-color: #27ae60;
+        }
     </style>
 </head>
 <body>
@@ -61,7 +78,12 @@
             {% else %}
                 <p>No classification result available.</p>
             {% endif %}
-            <p><strong>Model Accuracy:</strong> {{ accuracy }}%</p>
+            <!-- <p><strong>Model Accuracy:</strong> {{ accuracy }}%</p> -->
+        </div>
+
+        <!-- Return Button -->
+        <div class="button-container">
+            <a href="{% url 'upload_image' %}">Return to Upload</a>
         </div>
     </div>
 </body>

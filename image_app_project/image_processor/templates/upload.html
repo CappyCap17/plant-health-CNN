@@ -43,20 +43,20 @@
         }
 
         button {
-            background-color: #2ecc71;
-            color: white;
-            font-size: 16px;
-            border: none;
-            cursor: pointer;
+            background-color: #2ecc71; 
+            color:white; 
+            font-size :16px; 
+            border:none; 
+            cursor:pointer; 
         }
 
-        button:hover {
-            background-color: #27ae60;
+        button:hover { 
+            background-color:#27ae60; 
         }
 
-        .preview img {
-            max-width: 100%;
-            border-radius: 10px;
+        .preview img { 
+            max-width :100%; 
+            border-radius :10px; 
         }
     </style>
 </head>
@@ -81,14 +81,17 @@
 
             <!-- Preview Image -->
             <div class="preview">
-                <img id="preview" src="#" alt="Image Preview" style="display: none;">
+                <img id="preview" src="#" alt="Image Preview" style="display:none;">
             </div>
 
+            <!-- Submit Button -->
             <button type="submit">Classify Image</button>
         </form>
     </div>
 
+    <!-- JavaScript for Image Preview -->
     <script>
+        // Function to preview uploaded image
         function previewImage(event) {
             const preview = document.getElementById('preview');
             preview.src = URL.createObjectURL(event.target.files[0]);

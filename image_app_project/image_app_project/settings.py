@@ -126,3 +126,5 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = BASE_DIR / 'media'
+
+model_path = 'E:\\MyCode\\image_app_project\\models\\plant_health_classifier.h5'  # Use double backslashes
