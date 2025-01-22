@@ -1,802 +1,802 @@
 [
     {
-        "id":1,
-        "plant_name":"Mango",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":3,
-        "plant_name":"Wheat",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":5,
-        "plant_name":"Tomato",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":7,
-        "plant_name":"Chili",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":9,
-        "plant_name":"Turmeric",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":11,
-        "plant_name":"Rose",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":13,
-        "plant_name":"Hibiscus",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":15,
-        "plant_name":"Guava",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":17,
-        "plant_name":"Banana",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":19,
-        "plant_name":"Papaya",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":21,
-        "plant_name":"Potato",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":23,
-        "plant_name":"Brinjal",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
-    },
-    {
-        "id":25,
-        "plant_name":"Coconut",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 1,
+        "plant_name": "Mango",
+        "disease_type": "Powdery",
+        "symptoms": "White powdery growth on leaves and fruits",
+        "recommended_treatment": "Apply wettable sulfur (2g/L) or potassium bicarbonate spray.",
+        "additional_notes": "Prune affected branches and ensure proper sunlight exposure."
+    },
+    {
+        "id": 2,
+        "plant_name": "Mango",
+        "disease_type": "Rust",
+        "symptoms": "Orange-brown pustules on leaves and stems",
+        "recommended_treatment": "Spray with Mancozeb (0.25%) or Azoxystrobin.",
+        "additional_notes": "Improve airflow and remove fallen leaves."
+    },
+    {
+        "id": 3,
+        "plant_name": "Wheat",
+        "disease_type": "Powdery",
+        "symptoms": "White powdery spots on leaves and stems",
+        "recommended_treatment": "Use triadimefon (0.1%) or sulfur dusting.",
+        "additional_notes": "Plant resistant varieties and avoid excessive nitrogen fertilizers."
+    },
+    {
+        "id": 4,
+        "plant_name": "Wheat",
+        "disease_type": "Rust",
+        "symptoms": "Reddish-brown or black pustules on leaves",
+        "recommended_treatment": "Apply Propiconazole (0.1%) or Tebuconazole spray.",
+        "additional_notes": "Remove infected plants and rotate crops."
+    },
+    {
+        "id": 5,
+        "plant_name": "Tomato",
+        "disease_type": "Powdery",
+        "symptoms": "White powdery growth on leaves and stems",
+        "recommended_treatment": "Spray with potassium bicarbonate solution or sulfur-based fungicides.",
+        "additional_notes": "Ensure proper spacing and ventilation in the crop field."
+    },
+    {
+        "id": 6,
+        "plant_name": "Tomato",
+        "disease_type": "Rust",
+        "symptoms": "Rusty-brown spots on leaves and stems",
+        "recommended_treatment": "Use copper-based fungicides like copper oxychloride (0.3%).",
+        "additional_notes": "Avoid overhead irrigation and remove infected leaves."
+    },
+    {
+        "id": 7,
+        "plant_name": "Chili",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Chili.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Chili.",
+        "additional_notes": "Ensure optimal conditions to prevent Chili-specific powdery mildew."
+    },
+    {
+        "id": 8,
+        "plant_name": "Chili",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Chili.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Chili.",
+        "additional_notes": "Monitor and apply treatments designed for Chili rust disease."
+    },
+    {
+        "id": 8,
+        "plant_name": "Turmeric",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Turmeric.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Turmeric.",
+        "additional_notes": "Ensure optimal conditions to prevent Turmeric-specific powdery mildew."
+    },
+    {
+        "id": 9,
+        "plant_name": "Turmeric",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Turmeric.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Turmeric.",
+        "additional_notes": "Monitor and apply treatments designed for Turmeric rust disease."
+    },
+    {
+        "id": 9,
+        "plant_name": "Rose",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Rose.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Rose.",
+        "additional_notes": "Ensure optimal conditions to prevent Rose-specific powdery mildew."
+    },
+    {
+        "id": 10,
+        "plant_name": "Rose",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Rose.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Rose.",
+        "additional_notes": "Monitor and apply treatments designed for Rose rust disease."
+    },
+    {
+        "id": 10,
+        "plant_name": "Hibiscus",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Hibiscus.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Hibiscus.",
+        "additional_notes": "Ensure optimal conditions to prevent Hibiscus-specific powdery mildew."
     },
     {
-        "id":27,
-        "plant_name":"Areca Nut",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 11,
+        "plant_name": "Hibiscus",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Hibiscus.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Hibiscus.",
+        "additional_notes": "Monitor and apply treatments designed for Hibiscus rust disease."
     },
     {
-        "id":29,
-        "plant_name":"Tea",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 11,
+        "plant_name": "Guava",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Guava.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Guava.",
+        "additional_notes": "Ensure optimal conditions to prevent Guava-specific powdery mildew."
     },
     {
-        "id":31,
-        "plant_name":"Coffee",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 12,
+        "plant_name": "Guava",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Guava.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Guava.",
+        "additional_notes": "Monitor and apply treatments designed for Guava rust disease."
     },
     {
-        "id":33,
-        "plant_name":"Sugarcane",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 12,
+        "plant_name": "Banana",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Banana.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Banana.",
+        "additional_notes": "Ensure optimal conditions to prevent Banana-specific powdery mildew."
     },
     {
-        "id":35,
-        "plant_name":"Mustard",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 13,
+        "plant_name": "Banana",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Banana.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Banana.",
+        "additional_notes": "Monitor and apply treatments designed for Banana rust disease."
     },
     {
-        "id":37,
-        "plant_name":"Spinach",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 13,
+        "plant_name": "Papaya",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Papaya.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Papaya.",
+        "additional_notes": "Ensure optimal conditions to prevent Papaya-specific powdery mildew."
     },
     {
-        "id":39,
-        "plant_name":"Coriander",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 14,
+        "plant_name": "Papaya",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Papaya.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Papaya.",
+        "additional_notes": "Monitor and apply treatments designed for Papaya rust disease."
     },
     {
-        "id":41,
-        "plant_name":"Cucumber",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 14,
+        "plant_name": "Potato",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Potato.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Potato.",
+        "additional_notes": "Ensure optimal conditions to prevent Potato-specific powdery mildew."
     },
     {
-        "id":43,
-        "plant_name":"Okra",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 15,
+        "plant_name": "Potato",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Potato.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Potato.",
+        "additional_notes": "Monitor and apply treatments designed for Potato rust disease."
     },
     {
-        "id":45,
-        "plant_name":"Cotton",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 15,
+        "plant_name": "Brinjal",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Brinjal.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Brinjal.",
+        "additional_notes": "Ensure optimal conditions to prevent Brinjal-specific powdery mildew."
     },
     {
-        "id":47,
-        "plant_name":"Peas",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 16,
+        "plant_name": "Brinjal",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Brinjal.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Brinjal.",
+        "additional_notes": "Monitor and apply treatments designed for Brinjal rust disease."
     },
     {
-        "id":49,
-        "plant_name":"Bitter Gourd",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 16,
+        "plant_name": "Coconut",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Coconut.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Coconut.",
+        "additional_notes": "Ensure optimal conditions to prevent Coconut-specific powdery mildew."
     },
     {
-        "id":51,
-        "plant_name":"Pomegranate",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 17,
+        "plant_name": "Coconut",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Coconut.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Coconut.",
+        "additional_notes": "Monitor and apply treatments designed for Coconut rust disease."
     },
     {
-        "id":53,
-        "plant_name":"Litchi",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 17,
+        "plant_name": "Areca Nut",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Areca Nut.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Areca Nut.",
+        "additional_notes": "Ensure optimal conditions to prevent Areca Nut-specific powdery mildew."
     },
     {
-        "id":55,
-        "plant_name":"Cardamom",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 18,
+        "plant_name": "Areca Nut",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Areca Nut.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Areca Nut.",
+        "additional_notes": "Monitor and apply treatments designed for Areca Nut rust disease."
     },
     {
-        "id":57,
-        "plant_name":"Black Pepper",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 18,
+        "plant_name": "Tea",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Tea.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Tea.",
+        "additional_notes": "Ensure optimal conditions to prevent Tea-specific powdery mildew."
     },
     {
-        "id":59,
-        "plant_name":"Rice",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 19,
+        "plant_name": "Tea",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Tea.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Tea.",
+        "additional_notes": "Monitor and apply treatments designed for Tea rust disease."
     },
     {
-        "id":61,
-        "plant_name":"Sorghum",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 19,
+        "plant_name": "Coffee",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Coffee.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Coffee.",
+        "additional_notes": "Ensure optimal conditions to prevent Coffee-specific powdery mildew."
     },
     {
-        "id":63,
-        "plant_name":"Millet",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 20,
+        "plant_name": "Coffee",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Coffee.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Coffee.",
+        "additional_notes": "Monitor and apply treatments designed for Coffee rust disease."
     },
     {
-        "id":65,
-        "plant_name":"Barley",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 20,
+        "plant_name": "Sugarcane",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Sugarcane.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Sugarcane.",
+        "additional_notes": "Ensure optimal conditions to prevent Sugarcane-specific powdery mildew."
     },
     {
-        "id":67,
-        "plant_name":"Apple",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 21,
+        "plant_name": "Sugarcane",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Sugarcane.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Sugarcane.",
+        "additional_notes": "Monitor and apply treatments designed for Sugarcane rust disease."
     },
     {
-        "id":69,
-        "plant_name":"Pear",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 21,
+        "plant_name": "Mustard",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Mustard.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Mustard.",
+        "additional_notes": "Ensure optimal conditions to prevent Mustard-specific powdery mildew."
     },
     {
-        "id":71,
-        "plant_name":"Peach",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 22,
+        "plant_name": "Mustard",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Mustard.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Mustard.",
+        "additional_notes": "Monitor and apply treatments designed for Mustard rust disease."
     },
     {
-        "id":73,
-        "plant_name":"Plum",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 22,
+        "plant_name": "Spinach",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Spinach.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Spinach.",
+        "additional_notes": "Ensure optimal conditions to prevent Spinach-specific powdery mildew."
     },
     {
-        "id":75,
-        "plant_name":"Apricot",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 23,
+        "plant_name": "Spinach",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Spinach.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Spinach.",
+        "additional_notes": "Monitor and apply treatments designed for Spinach rust disease."
     },
     {
-        "id":77,
-        "plant_name":"Cherry",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 23,
+        "plant_name": "Coriander",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Coriander.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Coriander.",
+        "additional_notes": "Ensure optimal conditions to prevent Coriander-specific powdery mildew."
     },
     {
-        "id":79,
-        "plant_name":"Almond",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 24,
+        "plant_name": "Coriander",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Coriander.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Coriander.",
+        "additional_notes": "Monitor and apply treatments designed for Coriander rust disease."
     },
     {
-        "id":81,
-        "plant_name":"Cashew",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 24,
+        "plant_name": "Cucumber",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Cucumber.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Cucumber.",
+        "additional_notes": "Ensure optimal conditions to prevent Cucumber-specific powdery mildew."
     },
     {
-        "id":83,
-        "plant_name":"Sesame",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 25,
+        "plant_name": "Cucumber",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Cucumber.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Cucumber.",
+        "additional_notes": "Monitor and apply treatments designed for Cucumber rust disease."
     },
     {
-        "id":85,
-        "plant_name":"Soybean",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 25,
+        "plant_name": "Okra",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Okra.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Okra.",
+        "additional_notes": "Ensure optimal conditions to prevent Okra-specific powdery mildew."
     },
     {
-        "id":87,
-        "plant_name":"Groundnut",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 26,
+        "plant_name": "Okra",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Okra.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Okra.",
+        "additional_notes": "Monitor and apply treatments designed for Okra rust disease."
     },
     {
-        "id":89,
-        "plant_name":"Sunflower",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 26,
+        "plant_name": "Cotton",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Cotton.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Cotton.",
+        "additional_notes": "Ensure optimal conditions to prevent Cotton-specific powdery mildew."
     },
     {
-        "id":91,
-        "plant_name":"Rapeseed",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 27,
+        "plant_name": "Cotton",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Cotton.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Cotton.",
+        "additional_notes": "Monitor and apply treatments designed for Cotton rust disease."
     },
     {
-        "id":93,
-        "plant_name":"Watermelon",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 27,
+        "plant_name": "Peas",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Peas.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Peas.",
+        "additional_notes": "Ensure optimal conditions to prevent Peas-specific powdery mildew."
     },
     {
-        "id":95,
-        "plant_name":"Muskmelon",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 28,
+        "plant_name": "Peas",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Peas.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Peas.",
+        "additional_notes": "Monitor and apply treatments designed for Peas rust disease."
     },
     {
-        "id":97,
-        "plant_name":"Pumpkin",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 28,
+        "plant_name": "Bitter Gourd",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Bitter Gourd.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Bitter Gourd.",
+        "additional_notes": "Ensure optimal conditions to prevent Bitter Gourd-specific powdery mildew."
     },
     {
-        "id":99,
-        "plant_name":"Grapes",
-        "disease_type":"Powdery",
-        "symptoms":"White powdery spots on leaves, stems, or fruits",
-        "recommended_treatment":"Apply sulfur-based fungicide or neem oil spray",
-        "additional_notes":"Ensure good air circulation and avoid waterlogging"
+        "id": 29,
+        "plant_name": "Bitter Gourd",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Bitter Gourd.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Bitter Gourd.",
+        "additional_notes": "Monitor and apply treatments designed for Bitter Gourd rust disease."
     },
     {
-        "id":2,
-        "plant_name":"Mango",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 29,
+        "plant_name": "Pomegranate",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Pomegranate.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Pomegranate.",
+        "additional_notes": "Ensure optimal conditions to prevent Pomegranate-specific powdery mildew."
     },
     {
-        "id":4,
-        "plant_name":"Wheat",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 30,
+        "plant_name": "Pomegranate",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Pomegranate.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Pomegranate.",
+        "additional_notes": "Monitor and apply treatments designed for Pomegranate rust disease."
     },
     {
-        "id":6,
-        "plant_name":"Tomato",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 30,
+        "plant_name": "Litchi",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Litchi.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Litchi.",
+        "additional_notes": "Ensure optimal conditions to prevent Litchi-specific powdery mildew."
     },
     {
-        "id":8,
-        "plant_name":"Chili",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 31,
+        "plant_name": "Litchi",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Litchi.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Litchi.",
+        "additional_notes": "Monitor and apply treatments designed for Litchi rust disease."
     },
     {
-        "id":10,
-        "plant_name":"Turmeric",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 31,
+        "plant_name": "Cardamom",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Cardamom.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Cardamom.",
+        "additional_notes": "Ensure optimal conditions to prevent Cardamom-specific powdery mildew."
     },
     {
-        "id":12,
-        "plant_name":"Rose",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 32,
+        "plant_name": "Cardamom",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Cardamom.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Cardamom.",
+        "additional_notes": "Monitor and apply treatments designed for Cardamom rust disease."
     },
     {
-        "id":14,
-        "plant_name":"Hibiscus",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 32,
+        "plant_name": "Black Pepper",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Black Pepper.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Black Pepper.",
+        "additional_notes": "Ensure optimal conditions to prevent Black Pepper-specific powdery mildew."
     },
     {
-        "id":16,
-        "plant_name":"Guava",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 33,
+        "plant_name": "Black Pepper",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Black Pepper.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Black Pepper.",
+        "additional_notes": "Monitor and apply treatments designed for Black Pepper rust disease."
     },
     {
-        "id":18,
-        "plant_name":"Banana",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 33,
+        "plant_name": "Rice",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Rice.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Rice.",
+        "additional_notes": "Ensure optimal conditions to prevent Rice-specific powdery mildew."
     },
     {
-        "id":20,
-        "plant_name":"Papaya",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 34,
+        "plant_name": "Rice",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Rice.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Rice.",
+        "additional_notes": "Monitor and apply treatments designed for Rice rust disease."
     },
     {
-        "id":22,
-        "plant_name":"Potato",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 34,
+        "plant_name": "Sorghum",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Sorghum.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Sorghum.",
+        "additional_notes": "Ensure optimal conditions to prevent Sorghum-specific powdery mildew."
     },
     {
-        "id":24,
-        "plant_name":"Brinjal",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 35,
+        "plant_name": "Sorghum",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Sorghum.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Sorghum.",
+        "additional_notes": "Monitor and apply treatments designed for Sorghum rust disease."
     },
     {
-        "id":26,
-        "plant_name":"Coconut",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 35,
+        "plant_name": "Millet",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Millet.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Millet.",
+        "additional_notes": "Ensure optimal conditions to prevent Millet-specific powdery mildew."
     },
     {
-        "id":28,
-        "plant_name":"Areca Nut",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 36,
+        "plant_name": "Millet",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Millet.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Millet.",
+        "additional_notes": "Monitor and apply treatments designed for Millet rust disease."
     },
     {
-        "id":30,
-        "plant_name":"Tea",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 36,
+        "plant_name": "Barley",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Barley.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Barley.",
+        "additional_notes": "Ensure optimal conditions to prevent Barley-specific powdery mildew."
     },
     {
-        "id":32,
-        "plant_name":"Coffee",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 37,
+        "plant_name": "Barley",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Barley.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Barley.",
+        "additional_notes": "Monitor and apply treatments designed for Barley rust disease."
     },
     {
-        "id":34,
-        "plant_name":"Sugarcane",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 37,
+        "plant_name": "Apple",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Apple.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Apple.",
+        "additional_notes": "Ensure optimal conditions to prevent Apple-specific powdery mildew."
     },
     {
-        "id":36,
-        "plant_name":"Mustard",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 38,
+        "plant_name": "Apple",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Apple.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Apple.",
+        "additional_notes": "Monitor and apply treatments designed for Apple rust disease."
     },
     {
-        "id":38,
-        "plant_name":"Spinach",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 38,
+        "plant_name": "Pear",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Pear.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Pear.",
+        "additional_notes": "Ensure optimal conditions to prevent Pear-specific powdery mildew."
     },
     {
-        "id":40,
-        "plant_name":"Coriander",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 39,
+        "plant_name": "Pear",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Pear.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Pear.",
+        "additional_notes": "Monitor and apply treatments designed for Pear rust disease."
     },
     {
-        "id":42,
-        "plant_name":"Cucumber",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 39,
+        "plant_name": "Peach",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Peach.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Peach.",
+        "additional_notes": "Ensure optimal conditions to prevent Peach-specific powdery mildew."
     },
     {
-        "id":44,
-        "plant_name":"Okra",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 40,
+        "plant_name": "Peach",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Peach.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Peach.",
+        "additional_notes": "Monitor and apply treatments designed for Peach rust disease."
     },
     {
-        "id":46,
-        "plant_name":"Cotton",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 40,
+        "plant_name": "Plum",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Plum.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Plum.",
+        "additional_notes": "Ensure optimal conditions to prevent Plum-specific powdery mildew."
     },
     {
-        "id":48,
-        "plant_name":"Peas",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 41,
+        "plant_name": "Plum",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Plum.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Plum.",
+        "additional_notes": "Monitor and apply treatments designed for Plum rust disease."
     },
     {
-        "id":50,
-        "plant_name":"Bitter Gourd",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 41,
+        "plant_name": "Apricot",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Apricot.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Apricot.",
+        "additional_notes": "Ensure optimal conditions to prevent Apricot-specific powdery mildew."
     },
     {
-        "id":52,
-        "plant_name":"Pomegranate",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 42,
+        "plant_name": "Apricot",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Apricot.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Apricot.",
+        "additional_notes": "Monitor and apply treatments designed for Apricot rust disease."
     },
     {
-        "id":54,
-        "plant_name":"Litchi",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 42,
+        "plant_name": "Cherry",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Cherry.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Cherry.",
+        "additional_notes": "Ensure optimal conditions to prevent Cherry-specific powdery mildew."
     },
     {
-        "id":56,
-        "plant_name":"Cardamom",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 43,
+        "plant_name": "Cherry",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Cherry.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Cherry.",
+        "additional_notes": "Monitor and apply treatments designed for Cherry rust disease."
     },
     {
-        "id":58,
-        "plant_name":"Black Pepper",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 43,
+        "plant_name": "Almond",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Almond.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Almond.",
+        "additional_notes": "Ensure optimal conditions to prevent Almond-specific powdery mildew."
     },
     {
-        "id":60,
-        "plant_name":"Rice",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 44,
+        "plant_name": "Almond",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Almond.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Almond.",
+        "additional_notes": "Monitor and apply treatments designed for Almond rust disease."
     },
     {
-        "id":62,
-        "plant_name":"Sorghum",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 44,
+        "plant_name": "Cashew",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Cashew.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Cashew.",
+        "additional_notes": "Ensure optimal conditions to prevent Cashew-specific powdery mildew."
     },
     {
-        "id":64,
-        "plant_name":"Millet",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 45,
+        "plant_name": "Cashew",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Cashew.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Cashew.",
+        "additional_notes": "Monitor and apply treatments designed for Cashew rust disease."
     },
     {
-        "id":66,
-        "plant_name":"Barley",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 45,
+        "plant_name": "Sesame",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Sesame.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Sesame.",
+        "additional_notes": "Ensure optimal conditions to prevent Sesame-specific powdery mildew."
     },
     {
-        "id":68,
-        "plant_name":"Apple",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 46,
+        "plant_name": "Sesame",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Sesame.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Sesame.",
+        "additional_notes": "Monitor and apply treatments designed for Sesame rust disease."
     },
     {
-        "id":70,
-        "plant_name":"Pear",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 46,
+        "plant_name": "Soybean",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Soybean.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Soybean.",
+        "additional_notes": "Ensure optimal conditions to prevent Soybean-specific powdery mildew."
     },
     {
-        "id":72,
-        "plant_name":"Peach",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 47,
+        "plant_name": "Soybean",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Soybean.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Soybean.",
+        "additional_notes": "Monitor and apply treatments designed for Soybean rust disease."
     },
     {
-        "id":74,
-        "plant_name":"Plum",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 47,
+        "plant_name": "Groundnut",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Groundnut.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Groundnut.",
+        "additional_notes": "Ensure optimal conditions to prevent Groundnut-specific powdery mildew."
     },
     {
-        "id":76,
-        "plant_name":"Apricot",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":78,
-        "plant_name":"Cherry",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":80,
-        "plant_name":"Almond",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":82,
-        "plant_name":"Cashew",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":84,
-        "plant_name":"Sesame",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":86,
-        "plant_name":"Soybean",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":88,
-        "plant_name":"Groundnut",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":90,
-        "plant_name":"Sunflower",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":92,
-        "plant_name":"Rapeseed",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":94,
-        "plant_name":"Watermelon",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":96,
-        "plant_name":"Muskmelon",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":98,
-        "plant_name":"Pumpkin",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
-    },
-    {
-        "id":100,
-        "plant_name":"Grapes",
-        "disease_type":"Rust",
-        "symptoms":"Yellow-orange pustules on leaves",
-        "recommended_treatment":"Spray with Copper Oxychloride (0.3%) or Mancozeb (0.25%)",
-        "additional_notes":"Remove infected leaves and avoid overcrowding"
+        "id": 48,
+        "plant_name": "Groundnut",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Groundnut.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Groundnut.",
+        "additional_notes": "Monitor and apply treatments designed for Groundnut rust disease."
+    },
+    {
+        "id": 48,
+        "plant_name": "Sunflower",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Sunflower.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Sunflower.",
+        "additional_notes": "Ensure optimal conditions to prevent Sunflower-specific powdery mildew."
+    },
+    {
+        "id": 49,
+        "plant_name": "Sunflower",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Sunflower.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Sunflower.",
+        "additional_notes": "Monitor and apply treatments designed for Sunflower rust disease."
+    },
+    {
+        "id": 49,
+        "plant_name": "Rapeseed",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Rapeseed.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Rapeseed.",
+        "additional_notes": "Ensure optimal conditions to prevent Rapeseed-specific powdery mildew."
+    },
+    {
+        "id": 50,
+        "plant_name": "Rapeseed",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Rapeseed.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Rapeseed.",
+        "additional_notes": "Monitor and apply treatments designed for Rapeseed rust disease."
+    },
+    {
+        "id": 50,
+        "plant_name": "Watermelon",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Watermelon.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Watermelon.",
+        "additional_notes": "Ensure optimal conditions to prevent Watermelon-specific powdery mildew."
+    },
+    {
+        "id": 51,
+        "plant_name": "Watermelon",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Watermelon.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Watermelon.",
+        "additional_notes": "Monitor and apply treatments designed for Watermelon rust disease."
+    },
+    {
+        "id": 51,
+        "plant_name": "Muskmelon",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Muskmelon.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Muskmelon.",
+        "additional_notes": "Ensure optimal conditions to prevent Muskmelon-specific powdery mildew."
+    },
+    {
+        "id": 52,
+        "plant_name": "Muskmelon",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Muskmelon.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Muskmelon.",
+        "additional_notes": "Monitor and apply treatments designed for Muskmelon rust disease."
+    },
+    {
+        "id": 52,
+        "plant_name": "Pumpkin",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Pumpkin.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Pumpkin.",
+        "additional_notes": "Ensure optimal conditions to prevent Pumpkin-specific powdery mildew."
+    },
+    {
+        "id": 53,
+        "plant_name": "Pumpkin",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Pumpkin.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Pumpkin.",
+        "additional_notes": "Monitor and apply treatments designed for Pumpkin rust disease."
+    },
+    {
+        "id": 53,
+        "plant_name": "Grapes",
+        "disease_type": "Powdery",
+        "symptoms": "Specific symptoms of Powdery Mildew seen in Grapes.",
+        "recommended_treatment": "Spray with neem oil or organic sulfur solution tailored for Grapes.",
+        "additional_notes": "Ensure optimal conditions to prevent Grapes-specific powdery mildew."
+    },
+    {
+        "id": 54,
+        "plant_name": "Grapes",
+        "disease_type": "Rust",
+        "symptoms": "Rust-like symptoms observed in Grapes.",
+        "recommended_treatment": "Use copper fungicides or Propiconazole specifically tested for Grapes.",
+        "additional_notes": "Monitor and apply treatments designed for Grapes rust disease."
     }
 ]

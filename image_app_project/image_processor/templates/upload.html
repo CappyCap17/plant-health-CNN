@@ -1,3 +1,5 @@
+<!-- templates/upload.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,42 +7,87 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Upload Image - Plant Health Classification</title>
     <style>
-        body { font-family: Arial, sans-serif; background-color: #f4f4f9; margin: 0; padding: 0; }
-        h1, h2 { text-align: center; color: #333; }
-        .container { width: 50%; margin: 50px auto; padding: 20px; background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
-        label { font-weight: bold; margin-top: 10px; display: block; }
-        input, select { width: 100%; padding: 10px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
-        button { width: 100%; padding: 10px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; font-size: 16px; cursor: pointer; }
-        button:hover { background-color: #45a049; }
-        .preview { text-align: center; margin-top: 20px; }
-        img { max-width: 100%; height: auto; }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e8f4f8;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 40%;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        h1 {
+            color: #2c3e50;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 15px;
+        }
+
+        select, input, button {
+            width: 90%;
+            padding: 12px;
+            margin: 10px 0;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            background-color: #2ecc71;
+            color: white;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #27ae60;
+        }
+
+        .preview img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>Plant Health Classification</h1>
-        <h2>Upload an Image or Take a Picture</h2>
         <form method="post" enctype="multipart/form-data">
             {% csrf_token %}
-            <!-- Dropdown or Manual Input -->
-            <label for="plant-name">Plant Name (Optional):</label>
-            <select id="plant-name" name="plant_name">
-                <option value="">-- Select a plant --</option>
+
+            <!-- Dropdown for Plant Names -->
+            <label for="plant-name">Select a Plant:</label>
+            <select id="plant-name" name="plant_name" required>
+                <option value="">-- Select a Plant --</option>
                 {% for plant in plants %}
-                <option value="{{ plant }}">{{ plant }}</option>
+                    <option value="{{ plant }}">{{ plant }}</option>
                 {% endfor %}
             </select>
-            <input type="text" id="plant-name-manual" name="plant_name_manual" placeholder="Or enter manually">
 
             <!-- File Upload -->
             <label for="image">Upload Image:</label>
-            <input type="file" id="image" name="image" accept="image/*" onchange="previewImage(event)">
+            <input type="file" id="image" name="image" accept="image/*" onchange="previewImage(event)" required>
+
+            <!-- Preview Image -->
             <div class="preview">
                 <img id="preview" src="#" alt="Image Preview" style="display: none;">
             </div>
-            <button type="submit">Upload</button>
+
+            <button type="submit">Classify Image</button>
         </form>
     </div>
+
     <script>
         function previewImage(event) {
             const preview = document.getElementById('preview');

@@ -1,3 +1,5 @@
+<!-- image_processor/templates/image_processor/result.html -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,78 +7,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Result - Plant Health Classification</title>
     <style>
-        /* Add your existing CSS here */
-        .result {
-            padding: 20px;
-            background-color: #f2f2f2;
-            border-radius: 8px;
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
         }
-        .treatment-recommendation {
-            margin-top: 20px;
-            padding: 20px;
-            background-color: #e0f7fa;
-            border-radius: 8px;
+
+        .container {
+            width: 60%;
+            margin: 50px auto;
+            padding: 30px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
         }
-        .back-btn {
-            padding: 10px 20px;
-            background-color: #00796b;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-top: 20px;
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
         }
-        .error-message {
-            color: red;
+
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .recommendation {
             margin-top: 20px;
+            padding: 15px;
+            background-color: #e9f7ef;
+            border-left: 4px solid #2ecc71;
         }
     </style>
 </head>
 <body>
-
     <div class="container">
-        <h1>Plant Health Classification</h1>
-        <h2>Processing Result</h2>
-
-        <!-- Display Error Message if Any -->
-        {% if error %}
-            <div class="error-message">
-                <p><strong>Error:</strong> {{ error }}</p>
-            </div>
-        {% endif %}
-
-        <!-- Display Result -->
-        <div class="result">
-            {% if result %}
-                <p><strong>Predicted Disease:</strong> {{ result|title }}</p>
-            {% else %}
-                <p>No disease predicted.</p>
-            {% endif %}
-        </div>
-
-        <!-- Display Plant Name -->
-        {% if plant_name %}
+        <h1>Plant Health Classification Results</h1>
+        <div>
             <p><strong>Plant Name:</strong> {{ plant_name }}</p>
-        {% else %}
-            <p><strong>Plant Name:</strong> Not provided</p>
-        {% endif %}
-
-        <!-- Show Treatment Recommendations -->
-        {% if treatment_recommendations %}
-            <div class="treatment-recommendation">
-                <h3>Treatment Recommendations</h3>
-                <p>{{ treatment_recommendations }}</p>
-            </div>
-        {% else %}
-            <p>No treatment recommendations found.</p>
-        {% endif %}
-
-        <!-- Back Button -->
-        <a href="javascript:void(0);" class="back-btn" onclick="window.history.back()">Go Back</a>
+            {% if result %}
+                {% if result == 'Healthy' %}
+                    <p><strong>Status:</strong> The plant is healthy. No treatment is required.</p>
+                {% else %}
+                    <p><strong>Predicted Disease:</strong> {{ result }}</p>
+                    <p><strong>Symptoms:</strong> {{ symptoms }}</p>
+                    <div class="recommendation">
+                        <h3>Treatment Recommendations</h3>
+                        <p>{{ treatment_recommendations }}</p>
+                        <p><strong>Additional Notes:</strong> {{ additional_notes }}</p>
+                    </div>
+                {% endif %}
+            {% else %}
+                <p>No classification result available.</p>
+            {% endif %}
+            <p><strong>Model Accuracy:</strong> {{ accuracy }}%</p>
+        </div>
     </div>
-
-    <div class="footer">
-        <p>&copy; 2025 Plant Health Classification. All rights reserved.</p>
-    </div>
-
 </body>
 </html>
