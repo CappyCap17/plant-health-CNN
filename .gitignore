@@ -1,2 +1,3 @@
 /.vscode
 /venv
+\image_app_project\models\model.pkl
