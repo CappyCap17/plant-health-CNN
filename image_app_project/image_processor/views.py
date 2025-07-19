@@ -7,12 +7,12 @@ import tensorflow as tf
 import numpy as np
 
 def upload_image(request):
-    # Loads JSON data that is the recommendations database
+  
     data_path = os.path.join(settings.BASE_DIR, 'data/recommendations.json')
     with open(data_path, 'r') as file:
         recommendations = json.load(file)
 
-    # Extracts the plant names for the dropdown
+   
     plants = {item["plant_name"] for item in recommendations}
 
     if request.method == 'POST':
@@ -24,7 +24,7 @@ def upload_image(request):
 
             plant_name = request.POST.get('plant_name', 'Not provided')
 
-            # Fetches recommendations for the predicted disease
+           
             treatment = next(
                 (item for item in recommendations if item["plant_name"] == plant_name and item["disease_type"].lower() == result.lower()),
                 None
@@ -45,23 +45,20 @@ def upload_image(request):
     return render(request, 'upload.html', {'form': form, 'plants': plants})
 
 def predict_image(image_path):
-    # Loads the trained model
+   
     model_path = os.path.join(settings.BASE_DIR, 'models/plant_health_classifier.h5')
     model = tf.keras.models.load_model(model_path)
 
 
-
-
-    # Prepare the image for prediction
     img = tf.keras.preprocessing.image.load_img(image_path, target_size=(250, 250))
     img_array = tf.keras.preprocessing.image.img_to_array(img)
     img_array = np.expand_dims(img_array, axis=0)
 
-    # Predict the disease
+    
     predictions = model.predict(img_array)
     class_labels = ['Healthy', 'Powdery', 'Rust']  
     predicted_class = np.argmax(predictions)
     predicted_label = class_labels[predicted_class]
-    accuracy = predictions[0][predicted_class] * 100  # Converts to percentage
+    accuracy = predictions[0][predicted_class] * 100  
 
     return predicted_label, accuracy

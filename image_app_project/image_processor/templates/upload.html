@@ -1,5 +1,3 @@
-<!-- templates/upload.html -->
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,11 +60,11 @@
 </head>
 <body>
     <div class="container">
-        <h1>Plant Health Classification</h1>
+        <h1>Plant Health Classification and Diagnosis</h1>
         <form method="post" enctype="multipart/form-data">
             {% csrf_token %}
 
-            <!-- Dropdown for Plant Names -->
+            
             <label for="plant-name">Select a Plant:</label>
             <select id="plant-name" name="plant_name" required>
                 <option value="">-- Select a Plant --</option>
@@ -75,23 +73,23 @@
                 {% endfor %}
             </select>
 
-            <!-- File Upload -->
+           
             <label for="image">Upload Image:</label>
             <input type="file" id="image" name="image" accept="image/*" onchange="previewImage(event)" required>
 
-            <!-- Preview Image -->
+        
             <div class="preview">
                 <img id="preview" src="#" alt="Image Preview" style="display:none;">
             </div>
 
-            <!-- Submit Button -->
+           
             <button type="submit">Classify Image</button>
         </form>
     </div>
 
-    <!-- JavaScript for Image Preview -->
+    
     <script>
-        // Function to preview uploaded image
+        
         function previewImage(event) {
             const preview = document.getElementById('preview');
             preview.src = URL.createObjectURL(event.target.files[0]);
